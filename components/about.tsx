@@ -44,10 +44,7 @@ export function About() {
                   <MapPin className="w-4 h-4 mr-3 text-muted-foreground" />
                   <span className="text-sm">United States</span>
                 </div>
-                <div className="flex items-center">
-                  <Phone className="w-4 h-4 mr-3 text-muted-foreground" />
-                  <span className="text-sm">+1 (857)-693-3611</span>
-                </div>
+                
                 <div className="flex items-center">
                   <Mail className="w-4 h-4 mr-3 text-muted-foreground" />
                   <span className="text-sm">neham1998@gmail.com</span>
