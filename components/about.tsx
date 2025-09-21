@@ -25,12 +25,12 @@ export function About() {
                 <div>
                   <h4 className="font-medium">M.S. in Software Engineering</h4>
                   <p className="text-sm text-muted-foreground">Northeastern University, Boston, MA</p>
-                  <p className="text-sm text-muted-foreground">GPA: 3.7/4.0 • July 2025</p>
+                  <p className="text-sm text-muted-foreground">Aug 2025</p>
                 </div>
                 <div>
                   <h4 className="font-medium">B.Tech in Telecommunication Engineering</h4>
                   <p className="text-sm text-muted-foreground">BMS College of Engineering</p>
-                  <p className="text-sm text-muted-foreground">GPA: 3.72/4.0 • 2016 – 2020</p>
+                  <p className="text-sm text-muted-foreground">2016 – 2020</p>
                 </div>
               </div>
             </CardContent>
